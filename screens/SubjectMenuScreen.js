@@ -1,4 +1,3 @@
-// screens/SubjectMenuScreen.js
 import React from 'react';
 import { View, Text, StyleSheet, TouchableOpacity, FlatList } from 'react-native';
 import { useAuth } from '../context/AuthContext';

@@ -1,4 +1,3 @@
-// screens/CustomFormScreen.js
 import React, { useEffect, useMemo, useState } from 'react';
 import { View, Text, StyleSheet, FlatList, TextInput, TouchableOpacity } from 'react-native';
 import { useRoute } from '@react-navigation/native';

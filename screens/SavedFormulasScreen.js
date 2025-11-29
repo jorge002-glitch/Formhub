@@ -1,4 +1,3 @@
-// screens/SavedFormulasScreen.js
 import React from 'react';
 import { View, Text, StyleSheet, FlatList, TouchableOpacity } from 'react-native';
 import { useAuth } from '../context/AuthContext';
